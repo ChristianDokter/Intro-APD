@@ -1,0 +1,19 @@
+h1 {
+    background-color: blue;
+    height: 50px;
+    color: rgb(196, 226, 222);
+    text-align: center;
+}
+
+body {
+    padding-top: 60px
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+footer h1 {
+    margin-bottom: 0px;
+
+}
